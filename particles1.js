@@ -219,5 +219,3 @@ var Attractor = function(pos,s){
    
     }
         
-    
-
